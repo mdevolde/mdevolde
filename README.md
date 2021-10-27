@@ -1,11 +1,9 @@
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/882318905048186900/902993320555458640/Martin1.png" width="1000" height="200" alt="banner">
-
-  ### Hi there, I'm Martin 👋
-
-  ## I am a computer science student, and a passionate backend developer
-  
 </p>
+
+<h3 align="center">Hi there, I'm Martin 👋</h3>
+<h2 align="center">I am a computer science student, and a passionate backend developer</h2>
 
 # Skills
 
