@@ -33,3 +33,8 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mdevolde)](https://github.com/mdevolde)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdevolde&layout=compact)](https://github.com/mdevolde)
+
+# 📚 Repos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdevolde&repo=backup-sqlite3-sh)](https://github.com/mdevolde/backup-sqlite3-sh)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdevolde&repo=slash-commands-recuperator)](https://github.com/mdevolde/slash-commands-recuperator)
