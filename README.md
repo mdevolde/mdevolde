@@ -1,3 +1,3 @@
-<img src="https://www.canva.com/design/DAEuCngnyis/SLA0suFmBg37skPBfvY0Ug/view?utm_content=DAEuCngnyis&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
+<img src="https://cdn.discordapp.com/attachments/882318905048186900/902987702960545822/Martin.png">
 
 # Hi there, I'm Martin 👋
