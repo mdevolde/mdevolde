@@ -11,7 +11,7 @@
   <img align="left" src="https://raw.githubusercontent.com/mdevolde/mdevolde/main/images/messenger.png" alt="Martin | Messenger" width="21px"/>
 </a>
 
-<a href="martin.devolder@student.unamur.be">
+<a href="martin.devolder2@gmail.com">
   <img align="left" src="https://raw.githubusercontent.com/mdevolde/mdevolde/main/images/gmail.png" alt="Martin | Gmail" width="21px"/>
 </a>
 
