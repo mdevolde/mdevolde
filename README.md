@@ -10,6 +10,14 @@
 <a href="https://www.facebook.com/Martin.Devolder2">
   <img align="left" src="https://raw.githubusercontent.com/mdevolde/mdevolde/main/images/messenger.png" alt="Martin | Messenger" width="21px"/>
 </a>
+
+<a href="martin.devolder@student.unamur.be">
+  <img align="left" src="https://raw.githubusercontent.com/mdevolde/mdevolde/main/images/gmail.png" alt="Martin | Gmail" width="21px"/>
+</a>
+
+<a href="https://mobile.twitter.com/DevolderMartin">
+  <img align="left" src="https://raw.githubusercontent.com/mdevolde/mdevolde/main/images/twitter.png" alt="Martin | Twitter" width="21px"/>
+</a>
 </br>
 
 # Skills
