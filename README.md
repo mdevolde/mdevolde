@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mdevolde/mdevolde/main/images/banner.png" width="1000" height="200" alt="banner">
+  <img src="https://media.discordapp.net/attachments/882318905048186900/902993320555458640/Martin1.png" width="1000" height="200" alt="banner">
 </p>
 
 <h3 align="center">Hi there, I'm Martin 👋</h3>
