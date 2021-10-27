@@ -5,6 +5,10 @@
 <h3 align="center">Hi there, I'm Martin 👋</h3>
 <h2 align="center">I am a computer science student, and a passionate backend developer</h2>
 
+# Connect with me
+
+
+
 # Skills
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
